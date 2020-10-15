@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "FoodAPP",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../images"
+		},
+		{
+			"name": "images 2",
+			"path": "../../Downloads/images 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FoodAPP"
+	}
+}
